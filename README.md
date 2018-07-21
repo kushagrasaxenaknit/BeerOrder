@@ -3,26 +3,32 @@ Fast Pagination with auto-suggest search and filter functionality implemented
 
 Utilized JSON Response Parameters from url through Retrofit
 Implement functionality to list beers in a mobile app
+<br>
 Search beer by name
+<br>
  Sort feature to sort result through ‘alcohol content’ in ascending and descending order
+ <br>
 Filter feature to filter result by Beer style or FAVOURITE 
+<br>
  Implemented Shopping Cart to allow users to add the beers into their cart. Maintained state of the cart across sessions through sqlite.
-Custom Font and Icon are used to make app interactive.
-
+<br>Custom Font and Icon are used to make app interactive.
+<br>
 Added autocomplete feature to Search beers conveniently 
-Features I have included extra :
+<br>
+Features I have included extra :<br>
 PAGINATION to display 15 beer items at a time in one page as user scrolls next page is loaded from list. This saves the memory usage.
 Offline storage of beer items through sqlite to browse even without internet. Only those items to which user has scrolled are stored offline.
-
+<br>
 Favorite option to add beer to favorite list and see it by applying favorite filter present on filter list at top.
+<br>
 Filter list is initiated dynamically from received json to list all styles.
-
+<br>
 Search is optimized if user sets filter of particular style and then tries to search any beer then system searches only in list which satisfies filter setting,
-
+<br>
 Sort can be applied to any nested level like after applying some filter and typing search text then we can sort the resulted item in either increasing and decreasing order of alcohol content.
-
+<br>
 Removal of any item added to cart can be done and cart is maintained offline through sqlite.
-
+<br>
 INSTRUCTIONS :
 
 
