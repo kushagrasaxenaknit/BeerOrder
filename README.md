@@ -51,7 +51,7 @@ Screenshots
   <img width = '200' height = '300' src = 'https://github.com/kushagrasaxenaknit/BeerOrder/blob/master/Screenshots/Screenshot_2018-07-01-17-10-16-095_com.kushagra.beerorder.png'/>
      <img  width = '200' height = '300' src = 'https://github.com/kushagrasaxenaknit/BeerOrder/blob/master/Screenshots/Screenshot_2018-07-01-17-10-40-654_com.kushagra.beerorder.png' />
   <img width = '200' height = '300' src = 'https://github.com/kushagrasaxenaknit/BeerOrder/blob/master/Screenshots/Screenshot_2018-07-21-11-24-16-494_com.kushagra.beerorder.png'/>
-     <img  width = '200' height = '300' src = 'https://github.com/kushagrasaxenaknit/PaginationWithRetrofitUrlParsing/blob/master/Screenshots/Screenshot_2018-04-07-12-39-12-444_android.png' />
+
    
  </p>
  <br>
